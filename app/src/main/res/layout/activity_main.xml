@@ -32,4 +32,9 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:text="要与同干支同步"
+        android:layout_height="wrap_content" />
 </LinearLayout>
