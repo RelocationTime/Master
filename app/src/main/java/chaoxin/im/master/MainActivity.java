@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         Toast.makeText(MainActivity.this, "test", Toast.LENGTH_SHORT).show();
     }
+
+
+    public void one() {
+
+    }
 }
