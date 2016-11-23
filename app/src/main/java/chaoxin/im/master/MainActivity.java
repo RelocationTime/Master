@@ -27,4 +27,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void one() {
 
     }
+    public void two() {
+
+    }
+    public void three() {
+
+    }
+
+
+
 }
